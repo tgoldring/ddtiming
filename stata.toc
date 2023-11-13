@@ -1,0 +1,3 @@
+v 3
+d Thomas Goldring, University of Michigan
+p ddtiming difference-in-differences estimation with variation in treatment timing

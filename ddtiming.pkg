@@ -1,0 +1,6 @@
+v 3
+d ddtiming.  difference-in-differences estimation with variation in treatment timing.
+d Thomas Goldring, University of Michigan
+f ddtiming.ado
+f ddtiming.sthlp
+f nofault_divorce.dta
