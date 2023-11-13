@@ -11,12 +11,14 @@ An R package called [bacondecomp](https://cran.r-project.org/web/packages/bacond
 ## Installation
 Type the following command:
 
-    net install ddtiming, from(https://github.com/tgoldring/ddtiming)
+    net install ddtiming, from (https://raw.githubusercontent.com/tgoldring/ddtiming/master)
+
+Alternatively, you can [download the package from GitHub](https://github.com/tgoldring/ddtiming) and install it manually.
 
 ## Example - No-Fault Divorce Laws
 ddtiming can replicate the example in Goodman-Bacon (2021). Download and load a dataset with the timing of no-fault divorce laws and female suicide rates (Stevenson & Wolfers, 2006):
 
-    net get ddtiming, from(https://github.com/tgoldring/ddtiming)
+    net get ddtiming, from (https://raw.githubusercontent.com/tgoldring/ddtiming/master)
 
     use nofault_divorce.dta
 
